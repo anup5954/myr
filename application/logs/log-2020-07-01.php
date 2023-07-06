@@ -1,0 +1,162 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-01 00:25:42 --> 404 Page Not Found: Kamedaya/15qbq9437HHb2687B.html
+ERROR - 2020-07-01 00:31:20 --> 404 Page Not Found: Kamedaya/dt1pq9437HHb4793B.html
+ERROR - 2020-07-01 01:12:15 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-07-01 01:43:45 --> 404 Page Not Found: Felice-italy/ohm8j7517pfhr1054f.html
+ERROR - 2020-07-01 02:37:26 --> 404 Page Not Found: Privacy-policyphp/index
+ERROR - 2020-07-01 02:48:51 --> 404 Page Not Found: C_corporationphp/index
+ERROR - 2020-07-01 03:14:49 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 04:19:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 04:19:06 --> 404 Page Not Found: Onepersoncompanyphp/index
+ERROR - 2020-07-01 04:44:01 --> 404 Page Not Found: Kamedaya/677gq9437HHb4455B.html
+ERROR - 2020-07-01 04:44:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 04:44:42 --> 404 Page Not Found: Onepersoncompanyphp/index
+ERROR - 2020-07-01 05:02:35 --> 404 Page Not Found: C_corporationphp/index
+ERROR - 2020-07-01 06:01:43 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 06:01:44 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 06:50:54 --> 404 Page Not Found: Kamedaya/1ficq9437HHb2739B.html
+ERROR - 2020-07-01 06:58:23 --> 404 Page Not Found: Thanksphp/index
+ERROR - 2020-07-01 08:40:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-01 08:50:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 08:50:20 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-01 09:35:17 --> 404 Page Not Found: Kamedaya/jfkmq9437HHb2921B.html
+ERROR - 2020-07-01 09:41:01 --> 404 Page Not Found: Kamedaya/t0rzq9437HHb1725B.html
+ERROR - 2020-07-01 09:48:06 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2020-07-01 09:48:06 --> 404 Page Not Found: Wp-1ogin_bakphp/index
+ERROR - 2020-07-01 09:48:07 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-07-01 10:05:55 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:05:55 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:05:56 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:06:07 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:06:08 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:06:11 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:06:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:06:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-07-01 10:06:38 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:06:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:06:52 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:07 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:14 --> Severity: Notice --> Trying to get property of non-object /home/newshanv/public_html/myregistration.in/application/controllers/Login.php 23
+ERROR - 2020-07-01 10:07:14 --> Severity: Notice --> Trying to get property of non-object /home/newshanv/public_html/myregistration.in/application/controllers/Login.php 35
+ERROR - 2020-07-01 10:07:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/newshanv/public_html/myregistration.in/system/core/Exceptions.php:271) /home/newshanv/public_html/myregistration.in/system/helpers/url_helper.php 564
+ERROR - 2020-07-01 10:07:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:41 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:51 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-01 10:07:55 --> Severity: Notice --> Undefined property: stdClass::$service_gst /home/newshanv/public_html/myregistration.in/application/views/admin/customer/my-services.php 29
+ERROR - 2020-07-01 10:07:55 --> Severity: Notice --> Undefined property: stdClass::$service_gst /home/newshanv/public_html/myregistration.in/application/views/admin/customer/my-services.php 29
+ERROR - 2020-07-01 10:07:56 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-01 10:07:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:07:56 --> 404 Page Not Found: Assets/admin
+ERROR - 2020-07-01 10:08:42 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-01 10:08:46 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-01 10:08:52 --> Severity: Notice --> Undefined property: stdClass::$service_gst /home/newshanv/public_html/myregistration.in/application/views/admin/customer/my-services.php 29
+ERROR - 2020-07-01 10:08:52 --> Severity: Notice --> Undefined property: stdClass::$service_gst /home/newshanv/public_html/myregistration.in/application/views/admin/customer/my-services.php 29
+ERROR - 2020-07-01 10:08:52 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-01 10:08:58 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:08:58 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:09:13 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:09:14 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:09:16 --> Query error: Unknown column 'gst' in 'field list' - Invalid query: SELECT `price`, `gst`
+FROM `my_services`
+WHERE `id` = '40'
+ERROR - 2020-07-01 10:09:25 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:09:25 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:09:27 --> Query error: Unknown column 'gst' in 'field list' - Invalid query: SELECT `price`, `gst`
+FROM `my_services`
+WHERE `id` = '39'
+ERROR - 2020-07-01 10:09:43 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:10:00 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:10:12 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:10:18 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:10:21 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 10:13:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 10:13:32 --> 404 Page Not Found: Paty/C5059oon2mmsa85K.html
+ERROR - 2020-07-01 10:17:54 --> 404 Page Not Found: Onepersoncompanyphp/index
+ERROR - 2020-07-01 10:20:55 --> 404 Page Not Found: Suzukiseni/8d8123yya9vA2781s.html
+ERROR - 2020-07-01 12:13:51 --> 404 Page Not Found: Kamedaya/50pvq9437HHb1933B.html
+ERROR - 2020-07-01 12:17:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 12:17:27 --> 404 Page Not Found: Lucenuova/yyet4w731rryet4m567y.html
+ERROR - 2020-07-01 12:29:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 12:42:10 --> 404 Page Not Found: Misty-snow/4c4t777dOc4U4155O.html
+ERROR - 2020-07-01 12:45:33 --> 404 Page Not Found: Kamedaya/kbp1q9437HHb1075B.html
+ERROR - 2020-07-01 12:45:34 --> 404 Page Not Found: Felice-italy/onepersoncompany.php
+ERROR - 2020-07-01 12:59:15 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 13:31:41 --> 404 Page Not Found: Kamedaya/91buq9437HHb2479B.html
+ERROR - 2020-07-01 13:54:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 13:54:51 --> 404 Page Not Found: Suzukiseni/qd8365yyza8A1247s.html
+ERROR - 2020-07-01 14:02:33 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 14:21:48 --> 404 Page Not Found: Assets/front
+ERROR - 2020-07-01 14:23:35 --> 404 Page Not Found: Kamedaya/y7bgq9437HHb3129B.html
+ERROR - 2020-07-01 14:26:50 --> 404 Page Not Found: Ekiweb/h9437www5gsd3036j.html
+ERROR - 2020-07-01 14:33:11 --> 404 Page Not Found: Quiksilver-onlinestore/eyusvK650Gkyusvj6425k.html
+ERROR - 2020-07-01 14:35:22 --> 404 Page Not Found: Bikyaku/8ujayU823bDujg9437D.html
+ERROR - 2020-07-01 15:58:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 15:58:52 --> 404 Page Not Found: E-smart/okJ9437VVkozcp1174T.html
+ERROR - 2020-07-01 15:58:59 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2020-07-01 16:04:30 --> 404 Page Not Found: E-smart/v2J9437VV2ywmp654T.html
+ERROR - 2020-07-01 16:24:24 --> 404 Page Not Found: Blog/ajax-index.php
+ERROR - 2020-07-01 16:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 16:53:31 --> 404 Page Not Found: E-smart/8eJ9437VVe2vsp1382T.html
+ERROR - 2020-07-01 17:01:35 --> 404 Page Not Found: Wp/index
+ERROR - 2020-07-01 17:01:36 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-07-01 17:01:37 --> 404 Page Not Found: New/index
+ERROR - 2020-07-01 17:01:38 --> 404 Page Not Found: Old/index
+ERROR - 2020-07-01 17:01:39 --> 404 Page Not Found: Test/index
+ERROR - 2020-07-01 17:01:40 --> 404 Page Not Found: Main/index
+ERROR - 2020-07-01 17:01:40 --> 404 Page Not Found: Site/index
+ERROR - 2020-07-01 17:01:42 --> 404 Page Not Found: Backup/index
+ERROR - 2020-07-01 17:01:43 --> 404 Page Not Found: Demo/index
+ERROR - 2020-07-01 17:01:44 --> 404 Page Not Found: Home/index
+ERROR - 2020-07-01 17:01:45 --> 404 Page Not Found: Tmp/index
+ERROR - 2020-07-01 17:01:46 --> 404 Page Not Found: Cms/index
+ERROR - 2020-07-01 17:01:47 --> 404 Page Not Found: Dev/index
+ERROR - 2020-07-01 17:01:48 --> 404 Page Not Found: Old-wp/index
+ERROR - 2020-07-01 17:01:49 --> 404 Page Not Found: Web/index
+ERROR - 2020-07-01 17:01:50 --> 404 Page Not Found: Old-site/index
+ERROR - 2020-07-01 17:01:51 --> 404 Page Not Found: Temp/index
+ERROR - 2020-07-01 17:01:52 --> 404 Page Not Found: 2018/index
+ERROR - 2020-07-01 17:01:53 --> 404 Page Not Found: 2019/index
+ERROR - 2020-07-01 17:01:54 --> 404 Page Not Found: Bk/index
+ERROR - 2020-07-01 17:01:55 --> 404 Page Not Found: Wp1/index
+ERROR - 2020-07-01 17:01:56 --> 404 Page Not Found: Wp2/index
+ERROR - 2020-07-01 17:01:57 --> 404 Page Not Found: V1/index
+ERROR - 2020-07-01 17:01:58 --> 404 Page Not Found: V2/index
+ERROR - 2020-07-01 17:01:59 --> 404 Page Not Found: Bak/index
+ERROR - 2020-07-01 17:02:00 --> 404 Page Not Found: Install/index
+ERROR - 2020-07-01 17:02:01 --> 404 Page Not Found: 2020/index
+ERROR - 2020-07-01 17:02:02 --> 404 Page Not Found: New-site/index
+ERROR - 2020-07-01 17:36:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 17:36:54 --> 404 Page Not Found: Quiksilver-onlinestore/eg75qK182Gkg75qj1611k.html
+ERROR - 2020-07-01 17:37:55 --> 404 Page Not Found: Privacy-policyphp/index
+ERROR - 2020-07-01 18:19:53 --> 404 Page Not Found: R-kojima/al17zW4357UGl17zs8365G.html
+ERROR - 2020-07-01 18:25:02 --> 404 Page Not Found: Tuzukiya/htoI1054JJtocq3572z.html
+ERROR - 2020-07-01 18:46:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 18:46:56 --> 404 Page Not Found: Suzukiseni/vd4263yy8r8A2885s.html
+ERROR - 2020-07-01 19:03:54 --> 404 Page Not Found: Misty-snow/rbet23dObeU9437O.html
+ERROR - 2020-07-01 19:42:25 --> 404 Page Not Found: Audit-returnphp/index
+ERROR - 2020-07-01 19:45:50 --> 404 Page Not Found: C_corporationphp/index
+ERROR - 2020-07-01 19:46:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 19:46:58 --> 404 Page Not Found: Quiksilver-onlinestore/6et8wK546Gket8wj5059k.html
+ERROR - 2020-07-01 19:50:03 --> 404 Page Not Found: Kamedaya/zultq9437HHb3805B.html
+ERROR - 2020-07-01 19:51:37 --> 404 Page Not Found: R-kojima/frf4mW2407UGrf4ms1611G.html
+ERROR - 2020-07-01 19:59:38 --> 404 Page Not Found: Ekiweb/h7185wwiyjid4102j.html
+ERROR - 2020-07-01 20:12:09 --> 404 Page Not Found: Suzukiseni/id4984yytynA4237s.html
+ERROR - 2020-07-01 20:18:05 --> 404 Page Not Found: C_corporationphp/index
+ERROR - 2020-07-01 20:47:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 20:47:53 --> 404 Page Not Found: Quiksilver-onlinestore/59ydfK3718Gk9ydfj1054k.html
+ERROR - 2020-07-01 20:56:22 --> 404 Page Not Found: Bakuchoya/mqL3456VdqeV9437d.html
+ERROR - 2020-07-01 21:37:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 21:37:33 --> 404 Page Not Found: Tuzukiya/vbtI5317JJbtxq14440z.html
+ERROR - 2020-07-01 21:55:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 21:55:28 --> 404 Page Not Found: Ekiweb/h9437ww30oed4492j.html
+ERROR - 2020-07-01 22:01:55 --> 404 Page Not Found: R-kojima/2yrblW4123UGyrbls7185G.html
+ERROR - 2020-07-01 22:23:16 --> 404 Page Not Found: Onepersoncompanyphp/index
+ERROR - 2020-07-01 22:34:43 --> 404 Page Not Found: Felice-italy/c_corporation.php
+ERROR - 2020-07-01 22:48:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 22:48:37 --> 404 Page Not Found: Ekiweb/h4984wwy09ad2594j.html
+ERROR - 2020-07-01 23:30:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-01 23:30:28 --> 404 Page Not Found: C_corporationphp/index
+ERROR - 2020-07-01 23:47:16 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-07-01 23:52:13 --> 404 Page Not Found: Quiksilver-onlinestore/zrapeK4420Gkrapej4984k.html

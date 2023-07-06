@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-21 05:45:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 05:49:22 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-21 05:57:18 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-21 05:57:18 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 05:57:21 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 05:57:21 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-21 07:21:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 08:20:46 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 08:38:06 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 09:03:28 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2022-02-21 09:55:40 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 09:55:40 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-21 09:55:40 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 09:55:41 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-21 09:59:54 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 09:59:54 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 10:00:45 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 10:04:24 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 10:04:43 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 10:04:47 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 11:43:00 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 11:43:01 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 16:06:03 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 16:06:03 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-21 16:17:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 16:53:47 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-21 17:24:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 20:32:22 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-02-21 22:16:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 22:16:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-21 22:18:24 --> 404 Page Not Found: Assets/front

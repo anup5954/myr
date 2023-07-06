@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-08 00:33:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 00:33:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-08 02:57:13 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 03:04:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 03:13:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 07:37:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 07:38:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 07:38:35 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 10:54:53 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 10:55:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 10:56:28 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 11:44:22 --> 404 Page Not Found: Uploaded_images/EASY-TDS-RETURN-FILING-534.jpg
+ERROR - 2022-01-08 11:44:22 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2022-01-08 11:44:23 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2022-01-08 11:45:01 --> 404 Page Not Found: Blog/index
+ERROR - 2022-01-08 11:45:01 --> 404 Page Not Found: Blog/index
+ERROR - 2022-01-08 14:21:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 15:15:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 15:15:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 20:55:32 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 20:55:34 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 21:19:58 --> 404 Page Not Found: Blog/index
+ERROR - 2022-01-08 22:15:02 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 22:15:10 --> 404 Page Not Found: Assets/front
+ERROR - 2022-01-08 23:13:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 23:33:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 23:33:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 23:42:55 --> 404 Page Not Found: Bikyaku/tvm6gU4151bDvmg312D.html
+ERROR - 2022-01-08 23:46:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-08 23:46:11 --> 404 Page Not Found: Resources/demos

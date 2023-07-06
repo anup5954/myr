@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-20 02:02:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 05:59:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 06:00:03 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-20 07:32:10 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 07:32:11 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 07:32:12 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 07:32:13 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 08:17:05 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 08:17:06 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 08:17:07 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 08:18:01 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 08:18:02 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 08:23:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 08:26:11 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 08:57:34 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 09:02:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 09:06:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-20 11:17:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 14:56:27 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 16:12:07 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 16:52:52 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 16:52:53 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 16:59:38 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-20 17:43:56 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 17:44:03 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 18:25:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 21:28:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-20 21:29:00 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 21:29:01 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-02-20 22:06:13 --> 404 Page Not Found: Robotstxt/index

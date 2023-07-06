@@ -1,0 +1,29 @@
+.online_company_registration{
+	background: url(../../img/banner/banner_1.jpg) center center; 
+background-size: cover;background-repeat:no-repeat;
+padding:30px 15px;
+
+}
+
+.inner_banner{position: relative;}
+.inner_banner_overlay{position: absolute; top: 0px; left: 0px; background: rgba(0, 0, 0, 0.8); width: 100%; min-height:100%; 
+}
+
+
+
+@media (max-width: 1200px)  {
+
+}
+
+
+@media(min-width:992px) {
+
+}
+
+@media(max-width:991px) {
+	
+}
+
+@media(max-width:767px) {
+
+}

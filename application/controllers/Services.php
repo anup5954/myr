@@ -1,0 +1,101 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Services extends MY_Controller{
+
+public function __construct(){
+
+parent::__construct();
+
+$this->load->model('Services_model','mdl');
+
+$this->load->library('view_lib');
+
+}
+
+public function index(){
+
+$data['services']=$this->mdl->fetch_all('services');
+
+$this->view_lib->load_view(['view'=>'services','nav'=>'admin','title'=>'Dashboard','view_data'=>$data]);
+
+}
+
+public function create(){
+
+$data['service']=(object)['show_in_home'=>0, 'show_in_footer'=>0,'is_popular'=>'yes','CGST'=>'','SGST'=>'','IGST'=>'','image'=>'','video'=>'','name'=>'','service_short_desc'=>'','bellow_banner_heading'=>'','bellow_banner_content'=>'','service_content'=>'','group_type_id'=>'','group_id'=>'','services_compare_points'=>'','video_show_direction'=>'left','price'=>''];
+$data['service_compare_points']=$this->mdl->service_compare_points();
+$this->view_lib->load_view(['view'=>'services-add-edit','nav'=>'admin','title'=>'Dashboard','view_data'=>$data]);
+
+}
+
+public function edit(){
+
+$data['service_compare_points']=$this->mdl->service_compare_points();
+$data['service']=$this->mdl->edit();
+
+$this->view_lib->load_view(['view'=>'services-add-edit','nav'=>'admin','title'=>'Dashboard','view_data'=>$data]);
+
+}
+
+public function insert(){
+
+$img_name=$this->img_upload('image');
+
+$data=$this->mdl->insert($img_name);
+
+$this->msg($data,'services','created');
+
+}
+
+public function update(){
+
+$img_name=$this->img_upload('image');
+
+$data=$this->mdl->update( $img_name );
+
+$this->msg($data,'services/edit/'.$this->uri->segment(3),'updateed');
+
+}
+
+public function status(){
+
+$data=$this->mdl->status();
+
+$this->msg($data,'services','Update');
+
+}
+
+public function delete(){
+
+$data=$this->mdl->delete();
+
+$this->msg($data,'services','Deleted');
+
+}
+
+public function img_delete(){
+
+$data=$this->mdl->img_delete();
+
+$this->msg($data,'services/edit/'.$this->uri->segment(3).'','Deleted');
+
+}
+
+public function fetch_select_group(){
+$data=$this->mdl->fetch_select_group($this->input->post('id'));
+$gt=$this->mdl->edit();
+//cho @$gt->group_type_id;
+echo "<option value=''>Select</option>";
+if( $data!=false ){
+$select=null;
+foreach($data as $sg){
+$select=( $sg->id==@$gt->group_type_id ) ? 'selected' : '';
+echo "<option value='".$sg->id."' $select >$sg->name</option>";
+}
+}
+}
+
+/*End service Class Here...*/
+
+}

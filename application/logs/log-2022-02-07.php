@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-07 00:37:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 00:37:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 02:15:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 03:59:04 --> 404 Page Not Found: Assets/front
+ERROR - 2022-02-07 06:36:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 07:19:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 07:20:30 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-07 07:25:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 07:28:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-02-07 13:38:50 --> 404 Page Not Found: Patior/index.php
+ERROR - 2022-02-07 16:17:27 --> 404 Page Not Found: Hehehephp/index
+ERROR - 2022-02-07 16:17:31 --> 404 Page Not Found: Hehehephp/index
+ERROR - 2022-02-07 16:38:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 16:38:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 17:04:46 --> 404 Page Not Found: Localphp/index
+ERROR - 2022-02-07 17:25:24 --> 404 Page Not Found: Cgi-bin/patior
+ERROR - 2022-02-07 17:33:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 18:51:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-07 19:43:43 --> 404 Page Not Found: Vim/patior
+ERROR - 2022-02-07 21:24:15 --> 404 Page Not Found: Cgi-bin/mt
+ERROR - 2022-02-07 21:24:22 --> 404 Page Not Found: Mt/mt-atom.cgi
+ERROR - 2022-02-07 21:24:27 --> 404 Page Not Found: Cgi-bin/mt-atom.cgi
+ERROR - 2022-02-07 21:24:32 --> 404 Page Not Found: Mt-atomcgi/index
+ERROR - 2022-02-07 21:24:39 --> 404 Page Not Found: Cgi-bin/MT
+ERROR - 2022-02-07 21:24:44 --> 404 Page Not Found: MT/mt-atom.cgi
+ERROR - 2022-02-07 21:24:49 --> 404 Page Not Found: Mtos/mt-atom.cgi
+ERROR - 2022-02-07 21:24:55 --> 404 Page Not Found: Cms/mt-atom.cgi
+ERROR - 2022-02-07 21:25:01 --> 404 Page Not Found: Blog/mt-atom.cgi
+ERROR - 2022-02-07 21:25:06 --> 404 Page Not Found: Cgi/mt-atom.cgi

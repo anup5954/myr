@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-02 00:42:08 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2021-02-02 00:47:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 00:47:29 --> 404 Page Not Found: Assets/front
+ERROR - 2021-02-02 02:54:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 04:08:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-02 04:31:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 05:38:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 05:38:11 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-02 09:10:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 10:33:28 --> 404 Page Not Found: Blog/index
+ERROR - 2021-02-02 10:33:28 --> 404 Page Not Found: Blog/index
+ERROR - 2021-02-02 11:52:45 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-02-02 11:52:45 --> 404 Page Not Found: Assets/front
+ERROR - 2021-02-02 13:58:55 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-02-02 14:16:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 14:37:33 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2021-02-02 14:52:07 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-02-02 15:02:49 --> 404 Page Not Found: Sitemap_indexxml/index
+ERROR - 2021-02-02 15:33:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 15:34:29 --> 404 Page Not Found: Sitemapxmlgz/index
+ERROR - 2021-02-02 15:56:34 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2021-02-02 15:58:34 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2021-02-02 16:00:21 --> 404 Page Not Found: Blog/index
+ERROR - 2021-02-02 16:03:31 --> 404 Page Not Found: Blog/index
+ERROR - 2021-02-02 16:15:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 16:15:33 --> 404 Page Not Found: Blog/index
+ERROR - 2021-02-02 18:47:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-02 18:47:44 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-02-02 18:47:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-02 22:51:58 --> 404 Page Not Found: Robotstxt/index

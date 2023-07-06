@@ -1,0 +1,74 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-25 00:16:49 --> 404 Page Not Found: Bikyaku/1hzazU2175bDhzg5006D.html
+ERROR - 2021-11-25 00:24:24 --> 404 Page Not Found: Blog/index
+ERROR - 2021-11-25 01:24:06 --> 404 Page Not Found: Tuzukiya/0tqI8365JJtq8q24268z.html
+ERROR - 2021-11-25 02:36:32 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 02:36:33 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 02:36:33 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 03:38:32 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 03:38:33 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 03:38:34 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 07:02:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 11:07:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 11:07:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 12:02:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 12:02:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 13:07:49 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:07:50 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:07:51 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:07:53 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:07:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-25 13:08:08 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:08:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:08:14 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:08:42 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:08:42 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:08:48 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:08:48 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:09:03 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:09:03 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:11:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:03 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:20 --> 404 Page Not Found: Admin/index
+ERROR - 2021-11-25 13:11:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-25 13:11:25 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:11:26 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:11:26 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:11:27 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:11:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:28 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:46 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:11:59 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:12:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:12:10 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:12:26 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:12:36 --> Severity: Notice --> Trying to get property 'status' of non-object /home3/projectwebsiteby/public_html/myregistration.in/application/controllers/Login.php 23
+ERROR - 2021-11-25 13:12:36 --> Severity: Notice --> Trying to get property 'status' of non-object /home3/projectwebsiteby/public_html/myregistration.in/application/controllers/Login.php 35
+ERROR - 2021-11-25 13:12:37 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:12:47 --> Severity: Notice --> Trying to get property 'status' of non-object /home3/projectwebsiteby/public_html/myregistration.in/application/controllers/Login.php 23
+ERROR - 2021-11-25 13:12:47 --> Severity: Notice --> Trying to get property 'status' of non-object /home3/projectwebsiteby/public_html/myregistration.in/application/controllers/Login.php 35
+ERROR - 2021-11-25 13:12:48 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:13:11 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-11-25 13:13:13 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-11-25 13:13:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:13:13 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:13:23 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-11-25 13:13:41 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-11-25 13:14:14 --> 404 Page Not Found: Admin/index
+ERROR - 2021-11-25 13:14:18 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:14:18 --> 404 Page Not Found: Assets/front
+ERROR - 2021-11-25 13:14:18 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-11-25 13:14:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:14:27 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-11-25 13:14:41 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-11-25 14:10:12 --> 404 Page Not Found: Bikyaku/tvm6gU4151bDvmg5317D.html
+ERROR - 2021-11-25 15:59:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 18:00:19 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-25 19:14:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 19:37:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 23:15:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 23:15:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-25 23:16:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-11-25 23:16:28 --> 404 Page Not Found: Adstxt/index

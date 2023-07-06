@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-15 00:18:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 00:18:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 02:04:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 02:47:04 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-12-15 06:34:02 --> 404 Page Not Found: Humanstxt/index
+ERROR - 2021-12-15 09:01:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 09:01:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 09:01:53 --> 404 Page Not Found: Bikyaku/bdgshU3345bDdgg4155D.html
+ERROR - 2021-12-15 09:10:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 09:53:16 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-12-15 09:53:17 --> 404 Page Not Found: Assets/front
+ERROR - 2021-12-15 09:53:18 --> 404 Page Not Found: Assets/front
+ERROR - 2021-12-15 09:53:19 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-12-15 09:53:19 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-12-15 09:53:23 --> 404 Page Not Found: Assets/front
+ERROR - 2021-12-15 09:53:27 --> 404 Page Not Found: Assets/front
+ERROR - 2021-12-15 09:53:32 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-12-15 10:40:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 12:09:44 --> 404 Page Not Found: Assets/front
+ERROR - 2021-12-15 13:51:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 14:20:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 14:20:56 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-15 14:50:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-12-15 16:42:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 19:12:16 --> 404 Page Not Found: Malsyo/0wtsl16188ozwp1054z.html
+ERROR - 2021-12-15 21:06:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-15 21:06:40 --> 404 Page Not Found: Life-and-peak/9pvO15190QApv07xy1428A.html
+ERROR - 2021-12-15 21:06:40 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,179 @@
+body{background-color: #f5f5f5;}
+button:focus, button:hover{box-shadow: 0 0 0; outline:0px;}
+
+.blog_li_pnl{margin:50px;}
+.blog_pnl{border:1px solid #006fb5; padding: 15px; margin-bottom: 15px;box-shadow: 1px 2px 2px 2px #ddd;}
+.blog_li_img img{width: 100%;}
+.blog_categories{list-style: none; padding-left: 0px;}
+.blog_post_date{color: #666; font-size: 14px;list-style: none; padding-left: 0px;}
+.blog_post_date li{display: inline-block;}
+.blog_categories{margin-bottom: 0px;}
+.blog_categories li{display: inline-block; position: relative; padding-right:15px; font-size: 14px;}
+.blog_categories li:after{content: "\f105";font: normal normal normal 14px/1 FontAwesome; margin-left: 5px; font-size: 20px; position: absolute; top: 0px; right:0px; }
+.blog_content h2{font-size:18px; color: #006fb5; margin-bottom:10px; margin-top:10px;}
+.blog_paragraph p{font-size: 14px; color: #333; }
+.read_more, .read_more:hover {text-decoration: none; font-size:14px;     color: #006fb5; font-weight: bold;}
+
+
+.blog_sidebar{background-color: #fff; padding:0px;}
+.blog_popular_post_text{display: flex; margin-bottom:5px; border-bottom: 1px solid #ddd;}
+.popular_post_img{width: 20%; }
+.popular_post_img img{width: 100%;}
+.blog_popular_post h4{padding: 10px;font-size: 18px; color: #000; margin-bottom: 10px; border-bottom: 1px solid #000; padding-bottom: 10px;}
+.blog_popular_post_cnt p a, .blog_popular_post_cnt p a:hover{color: #006fb5; font-size: 14px; font-weight: 600; text-decoration: none;}
+.blog_popular_post_cnt{    padding: 10px;}
+.blog_popular_post_cnt p{
+    margin-bottom: 0px;
+    text-transform: capitalize;
+}
+.popular_tag ul{list-style: none; padding-left: 0px; display: flex;}
+.popular_tag ul li{width:20%; flex-wrap: wrap; margin-left: 10px;}
+.popular_tag ul li:first-child{margin-left: 0px;}
+.popular_tag ul li a{text-decoration: none; border: 1px solid #006fb5; padding:4px 8px; color: #006fb5;}
+.search_section input,.search_section input:hover, .search_section input:focus{border:1px solid #ddd; outline: none; box-shadow: 0 0 0; padding-left:30px; border-radius: 0px;}
+.search_section{position: relative;}
+
+.search_btn{position: absolute; top: 0px; right: 0px;}
+.search_btn,.search_btn:hover,.search_btn:focus{background-color: #006fb5; color: #fff; outline: none; box-shadow: 0 0 0; border-radius: 0px; border:1px solid #006fb5;}
+.search_section i{position: absolute; left:10px; top:10px; color: #ddd;}
+.blog_archive_post h4{font-size: 18px;
+    color: #000;
+    border-bottom: 1px solid #000;
+    padding-bottom: 10px;}
+
+/*tree*/
+.tree, .tree ul {
+    margin:0;
+    padding:0;
+    list-style:none
+}
+.tree ul {
+    margin-left:1em;
+    position:relative
+}
+.tree ul ul {
+    margin-left:.5em
+}
+.tree ul:before {
+    content:"";
+    display:block;
+    width:0;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    border-left:1px solid
+}
+.tree li {
+    margin:0;
+    padding:0 1em;
+    line-height:2em;
+    color:#369;
+    font-weight:700;
+    position:relative
+}
+.tree ul li:before {
+    content:"";
+    display:block;
+    width:10px;
+    height:0;
+    border-top:1px solid;
+    margin-top:-1px;
+    position:absolute;
+    top:1em;
+    left:0
+}
+.tree ul li:last-child:before {
+    background:#fff;
+    height:auto;
+    top:1em;
+    bottom:0
+}
+.indicator {
+    margin-right:5px;
+}
+.tree li a {
+    text-decoration: none;
+    color:#369;
+}
+.tree li button, .tree li button:active, .tree li button:focus {
+    text-decoration: none;
+    color:#369;
+    border:none;
+    background:transparent;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+    outline: 0;
+}
+/**tree/
+
+
+
+/*blog_detail_css*/
+.blog_dtl_heading{font-size: 16px;
+    color: #000;
+    margin-bottom: 15px;
+    margin-top: 18px; font-weight: bold;}
+.blog_detail_heading{font-size: 18px;
+    color: #006fb5;
+    margin-bottom:15px;
+    margin-top: 10px;}
+.blog_detail{background-color: #fff; padding: 15px;}    
+.blog_detail_img img{width: 100%;}
+.blog_detail_paragraph{margin-top: 15px;}
+.blog_detail_paragraph p{font-size: 14px;
+    color: #333;}
+
+/*blog_detail_css*/
+
+/*start here social media icon*/
+.blog_social_media ul{ list-style: none; float: right; }
+.blog_social_media ul li{display: inline-block; margin:0px 5px; color:#000; font-size:18px; cursor: pointer; position: relative;}
+.blog_social_media ul li i{color:#006fb5;}
+.social_media_drop_down{display: none; position: absolute; top: -25px; left: -20px; padding-left: 0px; width: 70px; background-color: #ddd;text-align: center;}
+.blog_social_media ul li:hover .social_media_drop_down{display: block;}
+/*end here social media icon*/
+
+
+/*Start here reviews section*/
+.reviews_top_pnl{display: flex;}
+.reivews_heading{width: 100%}
+.reviews_comment{width: 100%; text-align: right; cursor: pointer;}
+.reviews_comment button,.reviews_comment button:hover,.reviews_comment button:focus{font-size:14px;text-align: right; color: #337ab7; font-weight: bold; box-shadow: 0 0 0; outline: none;}
+.reviews_pnl{margin: 30px 0px; border:1px solid #ddd; padding: 15px;}
+.reviews_pnl h5{margin-bottom: 15px; font-weight: bold; font-size: 18px;}
+.reviews_profile{text-align: center;}
+.reviews_profile img{height:50px;}
+.reviews_star{text-align: center;}
+.reviews_star ul{padding-left: 0px;}
+.reviews_star ul li{color:#337ab7;}
+.customer_name p{margin-bottom: 0px; color: #333; font-weight: bold;text-align: left;}
+.product_reviews{background-color: #f5f5f5; padding-top: 10px; margin-bottom: 10px;}
+.reviews_date p {font-size: 14px; color:#337ab7; margin-bottom: 0px; margin-right: 10px;}
+
+.product_reviews_text p{margin-bottom: 0px; font-size: 14px;}
+.reviews_input{margin-bottom: 10px; padding-right: 10px;}
+.reviews_input textarea,.reviews_input textarea:focus,.reviews_input textarea:hover{border-radius: 0px; box-shadow: 0 0 0; outline: none;}
+.reviews_input button,.reviews_input button:hover,.reviews_input button:focus{padding-left:15px;text-align: center; background-color:#337ab7; color: #fff; border-radius: 5px;margin-top:10px;}
+.customer_reply p span{font-weight:bold;color: #337ab7;}
+.customer_reply  p{background-color:#337ab936; margin-bottom: 5px; padding: 10px; margin-right: 10px; border-radius: 5px; margin-top:15px;}
+.reviews_performance{display: flex;}
+.reviews_date{width: 100%;}
+.rewviews_like_dislike{width: 100%;text-align: right;}
+.rewviews_like_dislike ul{list-style: none; padding-left: 0px; margin: 0px 10px; }
+.rewviews_like_dislike ul li{display: inline-block; margin: 0px 5px; cursor: pointer; }
+.rewviews_like_dislike .fa-thumbs-up{color:#337ab7;}
+.rewviews_like_dislike .fa-thumbs-down{color:#cc3333;}
+.reviews_comment_star button{width:40px!important; background-color: #333;}
+.reviews_comment_star button:hover,.reviews_comment_star button:focus{background-color:#337ab7; width: 40px!important; }
+.reviews_comment_star button i{font-size: 18px;}
+#rating-ability-wrapper{margin-bottom: 0px;}
+.comment_hidden{display: none;}
+.reviews_input input, .reviews_input input:focus, .reviews_input input:hover{box-shadow: 0 0 0; outline: none; border-radius: 0px;} 
+/*End here reviews section*/
+
+
+
+@media only screen and (max-width:767px){
+	.blog_li_pnl{margin:0px;}
+}

@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-31 00:52:23 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 01:33:00 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-10-31 05:13:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 07:34:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 08:36:05 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 09:47:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-31 09:48:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-31 10:08:25 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 10:08:27 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 14:32:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 14:45:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 15:16:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 15:16:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-31 17:25:51 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 17:25:53 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 17:25:53 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 17:48:23 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:10:58 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:10:59 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:28 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:29 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-10-31 18:52:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 18:52:37 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:38 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:42 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:43 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:47 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:48 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 18:52:51 --> 404 Page Not Found: Assets/admin
+ERROR - 2021-10-31 22:07:38 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-31 22:54:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-31 22:54:46 --> 404 Page Not Found: Robotstxt/index

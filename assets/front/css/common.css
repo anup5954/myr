@@ -1,0 +1,422 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+
+
+
+.content-page-logo img{
+  height: 50px;
+  margin-bottom: 30px;
+}
+
+.inner_page_pnl{
+  margin-top: 0px!important;
+}
+.page_heading{font-size: 24px; color: #333; }
+.page_text{font-size: 14px; color: #333; text-align: justify;}
+.inner_banner_overlay{position: absolute; top: 0px; left: 0px; background: rgba(0, 0, 0, 0.8); width: 100%; min-height:100%; 
+}
+.position_relative{position: relative;}
+.banner_form{background-color: #fff; padding:15px; border:2px solid #006fb5; max-width: 450px; margin:auto; }
+.banner_form .form-group .form-control,
+.banner_form .form-group .form-control:hover,
+.banner_form .form-group .form-control:focus{outline: none; box-shadow: 0 0 0; border-color:#006fb5; border-radius: 0px; height: 40px;}
+.banner_form .form-group label{position: relative;}
+.banner_form .form-group label sub{position: absolute; right:-7px; top:7px; color:#FF0000}
+
+.get_free_btn{background-color: #ddd; color: #006fb5; font-size: 12px; border-radius: 0px; width: 100%; height: 40px; font-weight: bold;}
+.banner_add_to_cart{background-color: #006fb5; color: #fff; font-size: 12px; border-radius: 0px; width: 100%; height: 40px; font-weight: bold;}
+.or_lbl{font-size: 16px; color: #333; text-align: center; width: 100%; margin-bottom: 0px;}
+.banner_form_text p{font-size: 14px; color: #333; text-align: center; margin-bottom: 0px;}
+.banner_left_content{color: #fff;}
+.banner_left_content h2{font-size:24px; margin-bottom: 15px;}
+.banner_left_content h4{font-size: 18px; margin-bottom: 0px;}
+.banner_left_content p{font-size: 16px; margin-bottom: 0px; line-height: 30px;}
+.banner_left_content ul{margin-top: 15px; list-style: none; padding-left: 0px;}
+.banner_left_content ul li{margin-bottom: 10px; position: relative; padding-left: 15px;}
+.banner_left_content ul li:before{content: "\f101";font: normal normal normal 14px/1 FontAwesome; position: absolute; left: 0px; top: 0px; }
+.banner_left_content ul li p {margin-top: 5px;}
+.inner_mid_section{margin-top: 30px;}
+.inner_mid_section h3{font-size: 22px; margin-bottom: 15px;}
+.inner_mid_section p{font-size:14px; color: #000;}
+.document_cnt{margin-top: 30px;}
+
+.document_cnt h3{font-size: 22px; color: #333;}
+.document_cnt h5{font-size: 18px; color:#006fb5; }
+.document_cnt ul{list-style: none; padding-left: 0px; margin-top: 15px; display: flex; flex-wrap: wrap;}
+.document_cnt ul li{position: relative; font-size: 14px;padding-left:20px; margin-bottom: 10px;    display: inline-block;
+    width: 49%;}
+.document_cnt ul li:before{position: absolute; left: 0px; top:5px;  content: "\f00c";font: normal normal normal 14px/1 FontAwesome; color:#006fb5; }
+
+
+/*Start here video section*/
+.services_img_section img{width: 100%;}
+.services_section_pnl{margin: 15px 0px;}
+.services_flex{display: flex;}
+.services_flex_box{width:50%;}
+/*End here video section*/
+
+
+
+/*Faq Toogle*/
+.panel-default>.panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.panel-default>.panel-heading a {
+  display: block;
+  padding: 10px 15px;
+}
+
+.panel-default>.panel-heading a:after {
+  content: "";
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  transition: transform .25s linear;
+  -webkit-transition: -webkit-transform .25s linear;
+}
+
+.panel-default>.panel-heading a[aria-expanded="true"] {
+  background-color: #eee;
+}
+
+.panel-default>.panel-heading a[aria-expanded="true"]:after {
+  content: "\2212";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.panel-default>.panel-heading a[aria-expanded="false"]:after {
+  content: "\002b";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.accordion-option {
+  width: 100%;
+  float: left;
+  clear: both;
+  margin: 15px 0;
+}
+
+.accordion-option .title {
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+.accordion-option .toggle-accordion {
+  float: right;
+  font-size: 16px;
+  color: #6a6c6f;
+}
+
+.accordion-option .toggle-accordion:before {
+  content: "Expand All";
+}
+
+.accordion-option .toggle-accordion.active:before {
+  content: "Collapse All";
+}
+
+/*Start here Faq Toog*/
+.panel {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #fff;
+  background: none;
+  box-shadow: none;
+}
+
+.panel:last-child {
+  border-bottom: none;
+}
+
+.panel-group > .panel:first-child .panel-heading {
+  border-radius: 4px 4px 0 0;
+}
+
+.panel-group .panel {
+  border-radius: 0;
+}
+
+.panel-group .panel + .panel {
+  margin-top: 0;
+}
+
+.panel-heading {
+  background-color:#006fb5;
+  border-radius: 0px!important;
+  border: none;
+  color: #fff;
+  padding: 0;
+}
+
+.panel-title a {
+  display: block;
+  color: #fff;
+  padding: 15px;
+  position: relative;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+
+}
+
+.panel-body {
+  background: #fff;
+  font-size: 14px;
+  color: #000;
+  padding: 5px 5px 10px 5px;
+}
+
+.panel:last-child .panel-body {
+  border-radius: 0 0 4px 4px;
+}
+
+.panel:last-child .panel-heading {
+  border-radius: 0 0 4px 4px;
+  transition: border-radius 0.3s linear 0.2s;
+}
+
+.panel:last-child .panel-heading.active {
+  border-radius: 0;
+  transition: border-radius linear 0s;
+}
+/* #bs-collapse icon scale option */
+
+
+
+.panel-heading.active a:before {
+  content: ' ';
+  transition: all 0.5s;
+  transform: scale(0);
+}
+
+#bs-collapse .panel-heading a:after {
+  content: ' ';
+  font-size: 24px;
+  position: absolute;
+  font: normal normal normal 14px/1 FontAwesome;
+  right: 5px;
+  top: 10px;
+  transform: scale(0);
+  transition: all 0.5s;
+}
+
+
+/* #accordion rotate icon option */
+
+#accordion .panel-heading a:before {
+  content: "\f107";
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: 24px;
+  position: absolute;
+  transform: rotate(0deg);
+  transition: all 0.5s;
+  right: 5px;
+  top: 10px;
+  
+}
+
+#accordion .panel-heading.active a:before {
+  transform: rotate(180deg);
+  transition: all 0.5s;
+}
+/*End here Faq Toog*/
+
+
+/*Price Table*/
+.company_price_pnl{padding: 15px 0px; background-color: #ddd;}
+.action-header a{color: #fff!important;}
+.membership-pricing-table {
+    width:100%;
+    background-color:#ebebeb!important;
+}
+
+.table_heading h4{
+font-size: 22px;
+    color: #333;
+    text-align: center;
+    margin: 30px 0px 8px 0px;}
+
+.table_heading hr {
+    border: 1px solid #006fb5;
+    margin: 0 auto 3em;
+    max-width: 100px;
+}
+
+.membership-pricing-table table .icon-no,.membership-pricing-table table .icon-yes {
+    font-size: 22px
+}
+
+.membership-pricing-table table .icon-no {
+    color: #a93717
+}
+
+.membership-pricing-table table .icon-yes {
+    color: #209e61
+}
+
+.membership-pricing-table table .plan-header {
+    text-align: center;
+    font-size: 48px;
+    border: 1px solid #e2e2e2;
+    padding: 25px 0
+}
+
+.membership-pricing-table table .plan-header-free {
+    background-color: #eee;
+    color: #555
+}
+
+.membership-pricing-table table .plan-header-blue {
+    color: #fff;
+    background-color: #61a1d1;
+    border-color: #3989c6
+}
+
+.membership-pricing-table table .plan-header-standard {
+    color: #fff;
+    background-color: #ff9317;
+    border-color: #e37900
+}
+
+.membership-pricing-table table td {
+    text-align: center;
+    width: 15%;
+    padding: 7px 10px;
+    background-color: #fafafa;
+    font-size: 14px;
+    -webkit-box-shadow: 0 1px 0 #fff inset;
+    box-shadow: 0 1px 0 #fff inset
+}
+
+.membership-pricing-table table,.membership-pricing-table table td {
+    border: 1px solid #ebebeb
+}
+
+
+
+.membership-pricing-table table tr td:nth-child(5) {
+    background-color: #FFF
+}
+
+.membership-pricing-table table tr:first-child td,.membership-pricing-table table tr:nth-child(2) td {
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+
+
+.membership-pricing-table table tr:first-child th .pricing-plan-name {
+   font-size: 18px;
+    font-weight: 500;
+}
+
+
+
+.membership-pricing-table table .header-plan-inner {
+    position: relative
+}
+
+.membership-pricing-table table .recommended-plan-ribbon {
+    box-sizing: content-box;
+    background-color: #dc3b5d;
+    color: #FFF;
+    position: absolute;
+    padding: 3px 6px;
+    font-size: 11px!important;
+    font-weight: 500;
+    left: -6px;
+    top: -22px;
+    z-index: 99;
+    width: 100%;
+    -webkit-box-shadow: 0 -1px #c2284c inset;
+    box-shadow: 0 -1px #c2284c inset;
+    text-shadow: 0 -1px #c2284c
+}
+
+.membership-pricing-table table .recommended-plan-ribbon:before {
+    border: solid;
+    border-color: #c2284c transparent;
+    border-width: 6px 0 0 6px;
+    bottom: -5px;
+    content: "";
+    left: 0;
+    position: absolute;
+    z-index: 90
+}
+
+.membership-pricing-table table .recommended-plan-ribbon:after {
+    border: solid;
+    border-color: #c2284c transparent;
+    border-width: 6px 6px 0 0;
+    bottom: -5px;
+    content: "";
+    right: 0;
+    position: absolute;
+    z-index: 90
+}
+
+.membership-pricing-table table .plan-head {
+    box-sizing: content-box;
+    background-color: #ff9c00;
+    border: 1px solid #cf7300;
+    position: absolute;
+    top: -33px;
+    left: -1px;
+    height: 30px;
+    width: 100%;
+    border-bottom: none
+}
+/*Price table*/
+
+@media(max-width:991px) {
+	.banner_form{position: static; max-width: 100%;}
+	.document_cnt ul li {
+    width:100%;
+}
+}
+
+@media(max-width:767px) {
+.services_section_pnl img{
+  height: auto!important;
+  width: 100%;
+}
+.header-section-admin{
+ justify-content: center; 
+}
+.banner_form{
+  margin-top: 30px;
+}
+
+.banner_left_content h1 span{
+  font-size: 25px;
+}
+
+.banner_left_content h4 span{
+font-size: 16px!important;
+}
+}

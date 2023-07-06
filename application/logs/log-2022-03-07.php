@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-07 00:15:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 02:55:30 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 03:32:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 05:03:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 05:41:53 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-07 05:41:53 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 05:41:54 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-07 05:41:55 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-07 06:14:00 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-07 06:14:00 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 07:48:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 12:09:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 13:46:58 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 13:46:58 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-07 13:46:59 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 13:46:59 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-07 13:47:13 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 16:35:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 16:35:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 17:35:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 17:35:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-07 18:33:22 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-07 21:33:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-07 21:33:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-07 23:05:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 23:06:00 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-07 23:06:04 --> 404 Page Not Found: Assets/front

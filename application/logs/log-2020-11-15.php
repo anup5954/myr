@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-15 00:57:57 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 01:01:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 01:01:59 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 01:26:31 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 02:25:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 03:48:43 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 04:52:16 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 05:31:40 --> 404 Page Not Found: Felice-italy/9nwaj4007pfnr5317f.html
+ERROR - 2020-11-15 05:34:36 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-15 06:55:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 07:50:10 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-15 07:55:17 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 09:21:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 09:21:23 --> 404 Page Not Found: Thanksphp/index
+ERROR - 2020-11-15 09:22:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-15 09:24:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 09:25:52 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-15 11:26:53 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-11-15 11:26:53 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-11-15 12:03:43 --> 404 Page Not Found: Components/com_acym
+ERROR - 2020-11-15 14:52:37 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 15:37:12 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 16:19:51 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-15 18:40:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-15 18:41:12 --> 404 Page Not Found: Felice-italy/dfllj3721pffr7185f.html
+ERROR - 2020-11-15 21:07:12 --> 404 Page Not Found: Thanksphp/index
+ERROR - 2020-11-15 21:16:14 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,54 @@
+.consultantdetails{margin:100px 0px;}
+.consultantheadflex{display: flex; background-color: #017dfd; padding: 10px; color: #fff;}
+.consultantheadleft{width: 15%;}
+.consultantheadleft img{width: 100%;}
+.consultantheadright{width: 30%;}
+.consultantheadmid{width: 55%;}
+.consultanctprofilenamed{padding:0px 15px;}
+.consultanctprofilenamed p{font-size: 24px; font-weight: bold;}
+.consultanctprofilenamed p span{display: block; font-size: 14px; font-weight: normal;}
+.consultantprofileinfo ul{list-style: none;}
+.consultantprofileinfo ul li{margin-bottom: 5px;}
+
+.consultantmidflex{display: flex;}
+.consultantmidleftbox{width: 25%;
+    border: 1px solid #ddd;
+    padding: 10px;}
+.consultantmidbox{width:50%; padding: 15px; text-align: justify;}
+.consultantmidrightbox{    width: 25%;
+    border: 1px solid #ddd;
+    padding: 10px;}
+.consultantmidsection{margin-top: 30px;}
+.sidnavheading h4{font-size: 18px; color: #017dfd;}
+.headingconsultancy{font-size: 24px; color:#017dfd; }
+.sidnavlist ul li{position: relative; padding-left: 15px; margin-bottom: 5px;}
+.sidnavlist ul li a{text-decoration: none; font-size: 16px; color: #000;}
+.sidnavlist ul li:before{content: "\f101";
+    font: normal normal normal 14px/1 FontAwesome;
+    position: absolute;
+    left: 0px;
+    font-size: 20px;
+    top: 3px;
+    color: #006fb5;
+  }
+ul{list-style: none; padding-left: 0px;}
+
+
+@media(max-width:991px) {
+.consultantmidleftbox{width: 100%; order:2; margin-bottom: 10px;}
+.consultantmidbox{width: 100%; order:1;}
+.consultantmidrightbox{width: 100%; order:3;}
+.consultantmidflex{flex-wrap: wrap;}	
+}
+
+
+
+
+@media(max-width:767px) {
+.consultantheadflex{flex-wrap: wrap;}
+.consultantheadleft{width: 100%;}
+.consultantheadmid{width: 100%;}
+.consultantheadright{width: 100%;} 
+.consultanctprofilenamed{padding: 10px 0px;}
+}
+

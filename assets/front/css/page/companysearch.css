@@ -1,0 +1,144 @@
+.hidden{display: none;}
+.py-10{padding:10px 0px;}
+.wdinput input, .wdinput input:hover, .wdinput input:focus{box-shadow: 0 0 0; border-color:#017dfd; outline: none; }
+.companysearchinput input{padding-left: 30px;}
+.compansearchfld{display: flex; align-items:  center;}
+.ancortag, .ancortag:hover, .ancortag:focus{outline: none; text-decoration: none; color: #017dfd;}
+.addtocart, .addtocart:hover, .addtocart:focus{background-color:#017dfd; color: #fff; border-radius: 0px; width: 100%; box-shadow: 0 0 0; outline: none;}
+.companysearchrbtn{padding:15px 0px;}
+.companyancortag a, .companyancortag a:hover, .companyancortag a:focus{text-decoration: underline; font-size: 16px; font-weight: bold; color: #017dfd;}
+.companyancortag{padding: 15px 0px;}
+.iconposition{ position: absolute; left: 10px; top: 12px; color: #b7b1b1; }
+.positionrelative{position: relative;}
+.companysearchbanner{background-color: #ddd; margin-bottom: 30px; padding: 30px 0px;}
+.companysearchpnl{margin-top: 80px;}
+.companysearchbannerflex{display: flex;}
+.companysearchbannerbox{width: 50%;}
+.companysearcheading{font-size: 24px; color: #017dfd; margin-bottom:30px!important;}
+.companysearchtext p {color: #333; font-size: 16px;}
+.companysearchpadding{padding:20px; }
+.iconrightposition{position: absolute; right: 10px; top: 8px; font-size: 18px;}
+.companysearcflextbox{display: flex;}
+.companyflextabbox{width: 100%; text-align: center; padding:15px 0px;}
+
+
+/* The container */
+.companysearchbtn {
+  display: inline-block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 16px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  margin-right: 25px;
+}
+
+.companysearchbtn:last-child{margin-right:0px;}
+
+/* Hide the browser's default radio button */
+.companysearchbtn input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+
+/* When the radio button is checked, add a blue background */
+.companysearchbtn input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.companysearchbtn input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.companysearchbtn .checkmark:after {
+  top: 8px;
+  left: 8px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+
+
+
+.companyregisterfield{background-color: #fff; padding: 15px;}
+.{position: sticky; top: 150px;}
+
+
+
+body{
+  position: relative; /* required */
+}
+.list-group{
+    position: sticky;
+    top:100px;
+    bottom: 100px
+}
+
+.searchcompanycontentsec{ position: sticky;
+    top:100px;
+    bottom: 100px}
+
+.companyinformationtbl tr th{width: 50%}
+.companyinformationtbl tr td{width: 50%}
+.companyinformationtbl tr td span{margin-right: 10px;}
+
+
+.companysearchmidsection{margin-bottom: 30px;}
+
+#companyinfoslider .owl-nav button , #companyinfoslider .owl-nav button:hover , #companyinfoslider .owl-nav button:focus{
+  box-shadow: 0 0 0; outline: none; padding: 0px 5px!important;
+}
+
+#companyinfoslider .owl-nav button i{font-size: 35px; color:#017dfd; }
+
+.companysearchlistpnl{margin:30px 0px;}
+
+#searchcompnylist_filter , #searchcompnylist_length{
+  display: none;
+}
+
+.compnay_search_new_heaing{font-size: 24px; color: #000;}
+.company_search_new p{font-size: 14px; color: #666;}
+.company_search_point h5{font-size: 18px; color:#017dfd;}
+@media (max-width:991px) {
+  .companysearchbannerflex{flex-wrap: wrap;}
+  .companysearchbannerbox{width: 100%;}
+  #myScrollspy{display: none;}
+}
+
+
+
+
+@media (max-width:767px) {
+  .companyinformationtbl tr th, .companyinformationtbl tr td{width: 100%; display: block;}
+  .companyinformationtbl tr td span{display: none}
+  .dtr-title{display: block!important;}
+  .ancortag{font-size: 14px;}
+}

@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-25 02:31:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 04:13:51 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-25 05:27:20 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-25 05:27:50 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-25 05:40:06 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-11-25 07:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 08:55:16 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 09:15:04 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 09:43:37 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 09:58:03 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 10:14:18 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 11:18:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 11:19:11 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-25 11:30:56 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 11:46:54 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 12:29:24 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 12:40:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 12:46:43 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 13:15:12 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 13:29:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 13:33:43 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 13:46:49 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 14:03:19 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-25 16:13:33 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-25 17:41:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 18:49:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-25 18:49:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-25 18:50:45 --> 404 Page Not Found: Adstxt/index

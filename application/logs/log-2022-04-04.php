@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-04 01:42:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 03:21:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 03:21:50 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-04 05:53:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 05:54:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-04 06:25:57 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:25:57 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:25:58 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:34:31 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:34:31 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:34:32 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:35:04 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:35:04 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:35:05 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:35:12 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:35:31 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:35:32 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:35:32 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:59:00 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 06:59:00 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-04 06:59:01 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-04-04 09:14:22 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-04-04 10:31:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 14:53:39 --> 404 Page Not Found: Blog/index
+ERROR - 2022-04-04 14:53:39 --> 404 Page Not Found: Blog/index
+ERROR - 2022-04-04 14:53:40 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2022-04-04 17:48:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 21:20:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-04 23:40:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 23:40:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-04 23:40:39 --> 404 Page Not Found: Blog/feed

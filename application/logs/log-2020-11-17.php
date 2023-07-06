@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-17 04:59:03 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-11-17 04:59:05 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-11-17 04:59:05 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-11-17 04:59:06 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-11-17 04:59:06 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-11-17 04:59:06 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-11-17 04:59:07 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-17 04:59:07 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-11-17 04:59:08 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-11-17 04:59:08 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-11-17 04:59:08 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-11-17 04:59:09 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-17 04:59:09 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-11-17 04:59:09 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-17 04:59:10 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-17 04:59:10 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-11-17 04:59:11 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-11-17 05:58:04 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 06:54:09 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 09:22:16 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-17 09:43:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-17 09:44:26 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-17 09:48:58 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-17 11:27:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-17 17:52:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-17 18:02:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-17 18:02:40 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-17 21:42:32 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 22:33:34 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 22:42:39 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 23:35:28 --> 404 Page Not Found: Blogsphp/index
+ERROR - 2020-11-17 23:40:35 --> 404 Page Not Found: Vendor/phpunit

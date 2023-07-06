@@ -1,0 +1,30 @@
+.page_headding{font-size: 24px; color:#333;}
+.contact_section{margin: 30px 0px;}
+.contact_form h2{margin-bottom:30px;}
+
+
+/*Start here form*/
+.wd_input input, .wd_input input:hover, .wd_input input:focus{box-shadow: 0 0 0; outline: none; border-color: #777; border-radius: 0px;}
+.wd_input select, .wd_input select:hover, .wd_input select:focus{box-shadow: 0 0 0; outline: none; border-color: #777; border-radius: 0px;}
+.wd_input textarea, .wd_input textarea:hover, .wd_input textarea:focus{box-shadow: 0 0 0; outline: none; border-color: #777; border-radius: 0px;}
+
+.wd_input input:focus{border-color: #ff0000!important;}
+.wd_input select:focus{border-color: #ff0000!important;}
+.wd_input textarea:focus{border-color: #ff0000!important;}
+
+.wd_input input::placeholder{font-size: 14px;}
+.wd_input select::placeholder{font-size: 14px;}
+.wd_input textarea::placeholder{font-size: 14px;}
+
+.wd_input_group label{position: relative; font-size: 14px; color: #333; display: inline-block;}
+.wd_input_group label sub{color: #ff0000; top:-4px; right:0px; font-size: 16px;}
+.btn, .btn:focus, .btn:hover{box-shadow: 0 0 0; border-radius:0px!important;}
+.submit_btn,.submit_btn:hover,.submit_btn:focus{background-color: #017dfd; color: #fff;}
+.contact_detail{list-style: none; padding-left: 0px; margin-top: 15px;}
+.contact_detail li{margin-bottom: 5px; font-size: 14px; font-weight: bold;}
+.contact_detail li span{font-weight: normal;}
+/*end here from*/
+
+@media(max-width:767px) {
+
+}

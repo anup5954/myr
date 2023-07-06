@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-07 00:42:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 00:43:05 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-01-07 01:54:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 01:54:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 01:54:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 01:54:31 --> 404 Page Not Found: Assets/front
+ERROR - 2021-01-07 04:33:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 04:34:00 --> 404 Page Not Found: Medicare/vbkK2584eebkftu23366X.html
+ERROR - 2021-01-07 06:11:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 06:11:12 --> 404 Page Not Found: Assets/front
+ERROR - 2021-01-07 06:44:33 --> 404 Page Not Found: Public/painel
+ERROR - 2021-01-07 06:44:33 --> 404 Page Not Found: Assets/lib
+ERROR - 2021-01-07 07:09:35 --> 404 Page Not Found: Public/common
+ERROR - 2021-01-07 09:23:13 --> 404 Page Not Found: Asuka3/cr36tD9885ppr36tQ33091g.html
+ERROR - 2021-01-07 10:24:47 --> 404 Page Not Found: Wp-admin/index
+ERROR - 2021-01-07 11:21:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 11:21:16 --> 404 Page Not Found: Medicare/z2cK8123ee2cs2u22560X.html
+ERROR - 2021-01-07 11:27:02 --> 404 Page Not Found: Life-and-peak/5hqO7416QAhql7uy6425A.html
+ERROR - 2021-01-07 12:40:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 12:44:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 12:44:03 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-01-07 13:33:16 --> 404 Page Not Found: Assets/bootstrap
+ERROR - 2021-01-07 13:33:16 --> 404 Page Not Found: Public/common
+ERROR - 2021-01-07 13:33:16 --> 404 Page Not Found: Assets/script
+ERROR - 2021-01-07 13:33:16 --> 404 Page Not Found: Assets/template_admin
+ERROR - 2021-01-07 15:41:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 18:36:05 --> 404 Page Not Found: Assets/front
+ERROR - 2021-01-07 19:01:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 19:01:04 --> 404 Page Not Found: Asuka3/rlxi9D7185pplxi9Q34781g.html
+ERROR - 2021-01-07 20:21:24 --> 404 Page Not Found: Assets/components
+ERROR - 2021-01-07 20:21:24 --> 404 Page Not Found: Assets/plupload
+ERROR - 2021-01-07 20:21:24 --> 404 Page Not Found: Assets/common
+ERROR - 2021-01-07 20:21:24 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-01-07 22:12:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-01-07 22:12:32 --> 404 Page Not Found: Adstxt/index

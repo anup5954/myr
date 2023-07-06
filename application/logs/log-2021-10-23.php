@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-23 01:58:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 01:58:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 02:46:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 02:47:11 --> 404 Page Not Found: Assets/uploads
+ERROR - 2021-10-23 05:11:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 05:11:48 --> 404 Page Not Found: About-usphp/index
+ERROR - 2021-10-23 08:13:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 09:27:30 --> 404 Page Not Found: Resources/demos
+ERROR - 2021-10-23 09:27:30 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 09:44:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 09:44:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 09:44:57 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-23 09:45:16 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-10-23 11:35:07 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 11:35:12 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 11:35:13 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 11:35:46 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 12:50:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 14:07:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 15:02:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 17:29:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 19:43:18 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-10-23 20:23:00 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 21:34:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-23 21:34:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-23 22:26:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 22:26:36 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 22:26:37 --> 404 Page Not Found: Assets/front
+ERROR - 2021-10-23 23:17:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-23 23:17:54 --> 404 Page Not Found: Robotstxt/index

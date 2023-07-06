@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-22 01:40:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 01:40:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 01:41:46 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-22 03:41:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 04:35:43 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 04:35:44 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 04:35:45 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 04:35:45 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 05:43:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-04-22 06:11:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 07:11:09 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-22 09:29:38 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-04-22 09:42:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 09:54:22 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 09:54:23 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 09:54:27 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 09:54:27 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 12:06:51 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-22 12:12:29 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-22 12:13:06 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-22 12:13:07 --> 404 Page Not Found: Assets/front
+ERROR - 2022-04-22 15:12:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 15:32:09 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-04-22 18:03:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-22 18:35:23 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 18:35:24 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 18:35:25 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-04-22 18:35:25 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-04-22 21:27:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-04-22 21:27:51 --> 404 Page Not Found: Faviconico/index

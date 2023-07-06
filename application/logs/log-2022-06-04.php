@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-04 04:00:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 04:00:39 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-06-04 04:22:09 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-06-04 04:22:09 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-06-04 04:22:10 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-06-04 04:22:11 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-06-04 04:54:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 04:54:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-06-04 05:14:28 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-06-04 05:14:28 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-06-04 05:14:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-06-04 05:14:31 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-06-04 06:19:51 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-06-04 06:19:51 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 09:02:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 09:25:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 11:15:37 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-06-04 11:15:37 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 11:15:41 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 11:15:45 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-06-04 11:46:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 12:27:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 12:44:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 12:44:43 --> 404 Page Not Found: Paty/C9885oogmnzba293K.html
+ERROR - 2022-06-04 19:23:01 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 19:23:02 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 19:36:34 --> 404 Page Not Found: Assets/front
+ERROR - 2022-06-04 20:00:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-04 22:45:12 --> 404 Page Not Found: Service/index

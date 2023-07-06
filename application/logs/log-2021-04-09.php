@@ -1,0 +1,129 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-09 00:06:41 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 00:06:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 00:37:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 00:37:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 00:42:45 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 00:49:49 --> 404 Page Not Found: Felice-italy/6pmgj3279pfpr9437f.html
+ERROR - 2021-04-09 01:09:55 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 01:10:00 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 01:40:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 01:41:04 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 01:47:41 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 01:51:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 02:12:43 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 02:12:56 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 02:42:10 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 02:42:20 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 03:04:11 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 03:06:10 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 03:35:24 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 03:38:15 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 04:07:24 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 04:09:56 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 04:38:45 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 04:41:00 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 05:10:23 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 05:11:03 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 05:13:05 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 05:42:02 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 05:45:22 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 06:03:37 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 06:13:51 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 06:17:27 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 06:38:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 06:38:04 --> 404 Page Not Found: Onepersoncompanyphp/index
+ERROR - 2021-04-09 06:46:08 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 06:50:18 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 06:53:03 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 07:18:05 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 07:20:48 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 07:51:14 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 07:52:57 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 08:23:16 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 08:24:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 08:56:15 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 08:56:20 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 09:26:13 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 09:26:21 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 09:57:30 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 09:59:43 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 10:20:11 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 10:20:12 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 10:43:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 10:43:43 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-04-09 10:50:52 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 10:50:52 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 11:12:59 --> 404 Page Not Found: Blog/wp-content
+ERROR - 2021-04-09 11:13:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 11:13:32 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-04-09 11:16:39 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 11:21:34 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 11:21:52 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 11:21:53 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 11:27:03 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 11:53:22 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 11:53:32 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 12:20:53 --> 404 Page Not Found: Ecotte-shop/3mkdfy403nTmkdfsW9437T.html
+ERROR - 2021-04-09 12:24:10 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 12:24:14 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 12:56:14 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 12:56:16 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 13:20:17 --> 404 Page Not Found: Images/myresi.jpg
+ERROR - 2021-04-09 13:27:09 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 13:27:09 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 13:58:28 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 13:58:29 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:16:10 --> 404 Page Not Found: Felice-italy/1s33j3877pfsr9437f.html
+ERROR - 2021-04-09 14:19:07 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:28:28 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:28:30 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:57:31 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:57:33 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:59:34 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 14:59:38 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 15:01:37 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 15:55:18 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 15:55:41 --> 404 Page Not Found: Assets/front
+ERROR - 2021-04-09 16:01:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 16:33:49 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 16:33:52 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 16:40:37 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 16:40:50 --> 404 Page Not Found: Assets/front
+ERROR - 2021-04-09 16:46:51 --> 404 Page Not Found: Ecotte-shop/1arefy1469nTarefcW9437T.html
+ERROR - 2021-04-09 17:05:29 --> 404 Page Not Found: Felice-italy/56yij1017pf6r9437f.html
+ERROR - 2021-04-09 17:18:41 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 17:18:46 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 17:50:39 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 17:51:39 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 18:24:51 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 18:25:33 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 18:57:25 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 18:57:53 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 19:01:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 19:26:18 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 19:30:39 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 19:30:55 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 19:57:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 19:57:55 --> 404 Page Not Found: Privacy-policyphp/index
+ERROR - 2021-04-09 20:03:34 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 20:03:40 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 20:37:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 20:37:50 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 21:12:02 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 21:12:20 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 21:12:27 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 21:44:12 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 21:44:19 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 22:14:51 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 22:16:32 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 22:31:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 22:31:33 --> 404 Page Not Found: Blog/feed
+ERROR - 2021-04-09 22:54:37 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 22:55:01 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 23:10:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-09 23:10:50 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225
+ERROR - 2021-04-09 23:28:06 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 23:28:21 --> Severity: Error --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/article.php 273
+ERROR - 2021-04-09 23:40:12 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home3/projectwebsiteby/public_html/myregistration.in/application/views/front/service.php 225

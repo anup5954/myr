@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-14 01:17:16 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 01:17:18 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 01:17:20 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 02:08:59 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 02:21:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 06:55:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 09:07:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 09:07:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 09:07:48 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 09:14:46 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 09:14:48 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 10:34:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 10:42:11 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-05-14 10:42:13 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-05-14 10:42:32 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-05-14 10:42:33 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-05-14 12:04:01 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 14:11:19 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 17:02:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-14 17:02:44 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-14 17:48:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 19:22:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 20:51:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-14 20:51:22 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 20:51:29 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 20:51:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-05-14 20:51:29 --> 404 Page Not Found: App-adstxt/index
+ERROR - 2022-05-14 21:39:53 --> 404 Page Not Found: Assets/front
+ERROR - 2022-05-14 23:37:25 --> 404 Page Not Found: Robotstxt/index

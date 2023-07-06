@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-28 01:04:35 --> 404 Page Not Found: Admin/index
+ERROR - 2020-11-28 01:18:18 --> 404 Page Not Found: Admin/index
+ERROR - 2020-11-28 01:45:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 01:58:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:09:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:20:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:22:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:28:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:30:19 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-28 02:31:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:34:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 02:34:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 05:13:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 05:13:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 07:45:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 08:29:31 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2020-11-28 09:26:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 10:48:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 13:13:37 --> 404 Page Not Found: Assets/front
+ERROR - 2020-11-28 18:36:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 18:46:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 18:46:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-28 18:46:40 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-28 20:30:15 --> 404 Page Not Found: Backup/wp-admin
+ERROR - 2020-11-28 21:12:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-11-28 21:21:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-28 22:45:14 --> 404 Page Not Found: Robotstxt/index

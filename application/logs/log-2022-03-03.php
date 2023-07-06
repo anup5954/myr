@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-03 00:32:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 04:20:53 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-03 05:03:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 05:42:28 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-03 05:42:28 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-03 05:42:29 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-03 05:42:29 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-03 05:45:23 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-03 05:45:23 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 05:45:24 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-03 05:45:24 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-03 09:34:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 09:35:34 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 09:35:45 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 10:30:31 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 10:30:31 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-03 11:34:13 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-03 11:34:13 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 12:16:31 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-03-03 12:16:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-03 12:16:34 --> 404 Page Not Found: Assets/admin
+ERROR - 2022-03-03 12:16:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-03 14:10:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 14:11:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 14:11:38 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 14:28:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 16:52:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-03 17:14:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 18:20:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-03 22:19:58 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-03 22:20:00 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 22:20:01 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-03 22:20:02 --> 404 Page Not Found: Resources/demos

@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-04 03:25:15 --> 404 Page Not Found: Blog/index
+ERROR - 2022-03-04 03:25:15 --> 404 Page Not Found: Blog/index
+ERROR - 2022-03-04 03:26:03 --> 404 Page Not Found: Blog/index
+ERROR - 2022-03-04 03:26:03 --> 404 Page Not Found: Blog/index
+ERROR - 2022-03-04 04:16:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 05:52:29 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-04 05:52:29 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-04 05:52:30 --> 404 Page Not Found: Apple-touch-icon-precomposedpng/index
+ERROR - 2022-03-04 05:52:30 --> 404 Page Not Found: Apple-touch-iconpng/index
+ERROR - 2022-03-04 06:48:22 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-04 06:48:24 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-04 06:48:26 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-04 06:48:27 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-04 09:29:02 --> 404 Page Not Found: Resources/demos
+ERROR - 2022-03-04 09:29:02 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-04 10:13:21 --> 404 Page Not Found: Wp-content/patior
+ERROR - 2022-03-04 10:13:25 --> 404 Page Not Found: Wp-content/patior
+ERROR - 2022-03-04 12:17:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 13:56:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 14:40:16 --> 404 Page Not Found: Wp-2019php/index
+ERROR - 2022-03-04 14:40:19 --> 404 Page Not Found: Wp-2019php/index
+ERROR - 2022-03-04 15:33:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 16:58:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 16:59:17 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 18:22:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 18:22:27 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-03-04 20:17:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 20:23:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 20:26:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 20:36:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-04 20:36:08 --> 404 Page Not Found: Misty-snow/cc7t6965dOc7U9405O.html
+ERROR - 2022-03-04 21:25:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-04 21:26:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-03-04 23:02:47 --> 404 Page Not Found: Assets/front
+ERROR - 2022-03-04 23:08:46 --> 404 Page Not Found: Robotstxt/index
